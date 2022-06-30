@@ -12,7 +12,7 @@
 3. Для имени фотографий использовать количество лайков. 
 4. Сохранять информацию по фотографиям в json-файл с результатами. 
 
-Обратите внимание: токен для ВК можно получить выполнив [инструкцию](https://docs.google.com/document/d/1_xt16CMeaEir-tWLbUFyleZl6woEdJt-7eyva1coT3w/edit?usp=sharing).
+*Обратите внимание: токен для ВК можно получить выполнив [инструкцию](https://docs.google.com/document/d/1_xt16CMeaEir-tWLbUFyleZl6woEdJt-7eyva1coT3w/edit?usp=sharing).*
 
 ### Входные данные:
 Пользователь вводит:
